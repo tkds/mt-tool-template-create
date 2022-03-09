@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-package MT::Tool::TemplateBuildTypeChange;
+package MT::Tool::TemplateCreate;
 use Encode;
 use strict;
 use warnings;
